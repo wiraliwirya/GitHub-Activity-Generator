@@ -4,7 +4,7 @@ Script Python sederhana untuk membuat **fake commit history** di GitHub kamu.
 Buat profil GitHub-mu jadi hijau semua dalam hitungan menit! 🟩🟩🟩
 
 ## ✨ Fitur
-- **Termux Optimized:** Ringan dan tidak bikin HP nge-hang.
+- **Termux Optimized:** Ringan dan tidak bikin lag.
 - **Progress Bar:** Tampilan persentase proses biar gak dikira macet.
 - **Customizable:** Atur frekuensi, hari libur, dan jumlah commit per hari.
 - **SSH Support:** Push otomatis menggunakan SSH key.

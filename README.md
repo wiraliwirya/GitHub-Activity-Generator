@@ -5,7 +5,7 @@ Buat profil GitHub-mu jadi hijau semua dalam hitungan menit! 🟩🟩🟩
 
 ## ✨ Fitur
 - **Termux Optimized:** Ringan dan tidak bikin lag.
-- **Progress Bar:** Tampilan persentase proses biar gak dikira macet.
+- **Progress Bar:** Tampilan persentase proses biar gak dikira stuck.
 - **Customizable:** Atur frekuensi, hari libur, dan jumlah commit per hari.
 - **SSH Support:** Push otomatis menggunakan SSH key.
 
@@ -81,4 +81,3 @@ Script akan memproses ratusan/ribuan commit.
 
 # ⚠️ Disclaimer
 Script ini dibuat untuk tujuan edukasi dan fun semata. Jangan gunakan untuk menipu rekruter atau klien bahwa kamu sangat aktif, padahal cuma bot. Skill asli lebih penting daripada kotak hijau! 😉
-Modified for Termux usability.

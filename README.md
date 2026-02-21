@@ -69,7 +69,7 @@ ssh -T git@github.com
 ### 1. Clone Repository
 
 ```bash
-git clone [https://github.com/USERNAME/GitHub-Activity-Generator.git](https://github.com/USERNAME/GitHub-Activity-Generator.git)
+git clone https://github.com/wiraliwirya/GitHub-Activity-Generator
 cd GitHub-Activity-Generator
 
 ```
@@ -147,7 +147,3 @@ Kontribusi selalu diterima! Jika Anda ingin menambahkan fitur baru atau memperba
 Proyek ini didistribusikan di bawah lisensi **MIT**. Lihat file [LICENSE](https://www.google.com/search?q=LICENSE) untuk detail lebih lanjut.
 
 Copyright (c) 2026 **WIRA LIWIRYA**
-
-```
-
-```
